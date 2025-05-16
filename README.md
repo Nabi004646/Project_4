@@ -12,7 +12,7 @@
 
 ## 🔥 Project Overview
 
-🎯 **Calculator Project ** is part of our _"Coders and Programmers"_ learning community.  
+🎯 **Github login Page Project** is part of our _"Coders and Programmers"_ learning community.  
 📘 It’s crafted with love to help beginners learn **HTML, CSS**, and creative project deployment.
 
 > 🧩 **Goal:** Real-world learning through actual project development  
@@ -23,7 +23,7 @@
 ## 🌐 Live Demo
 
 🎉 **Experience the Project Live Here:**  
-🔗 [🌍 Visit the Live Website →](nbasicproject4.nettlify.app)
+🔗 [🌍 Visit the Live Website →](nbasicproject4.netlify.app)
 
 ---
 
